@@ -2,7 +2,7 @@
 
 <h3 align="center">Desafio referente ao processo de admissão DB server</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Concluded-green"/>
+  <img src="https://img.shields.io/badge/Status-Improvement-yellow"/>
   <img src="https://img.shields.io/github/issues/LucasLima004/Desafio_DB"/>
 </p>
 <br>
